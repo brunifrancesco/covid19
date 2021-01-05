@@ -41,10 +41,9 @@ Here's the [https://github.com/pcm-dpc/COVID-19](repo).
 ### With Docker
 
 If you're comfortable with Docker:
-
-	```
+	
+	
 	docker run -ti --rm -p 8889:8888 -v `pwd`:/home/jovyan/work jupyter/base-notebook
-	```
 
 Then install dependecies with the ```pip``` command.
 
