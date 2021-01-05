@@ -4,7 +4,7 @@ Try to make sense to raw data with some basic analysis on Covid-19 pandemic in I
 Raw and machine-readable data have been provided on a daily basis by institutional departments.
 
 
-Here's the [https://github.com/pcm-dpc/COVID-19](repo).
+Here's the [repo](https://github.com/pcm-dpc/COVID-19).
 
 ## What you need
 
